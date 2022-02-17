@@ -7,6 +7,7 @@ Esta é uma calculadora simples desenvolvida com JavaScript, HTML e CSS. Ela foi
 
 <h2> Gif do desafio: <h2> <br>
 
+![calculadora simples](https://user-images.githubusercontent.com/82722083/154388064-c529a8d5-4b7c-4792-a8df-b4816e234b10.gif)
 
   
    ## Tecnologias
